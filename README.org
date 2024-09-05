@@ -14,5 +14,6 @@ To run the code in this repository, create a Python Virtual Environment from the
 python -m pip install -r requirements.txt
 #+end_src
 
-** Taller #02
+** workshop
+1. 
 
